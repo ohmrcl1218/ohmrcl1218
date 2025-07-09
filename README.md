@@ -1,4 +1,4 @@
-# ୨୧ Hi, I'm Mercel! ୨୧
+# <p align="center">୨୧ Hi, I'm Mercel! ୨୧</p>
 
 # 💫 About Me:
 🔭 I’m currently a Computer Science student, especializing in Machine Learning, at National University Manila<br
