@@ -1,11 +1,11 @@
 # <p align="center">୨୧ Hi, I'm Mercel! ୨୧</p>
 
 # 💫 About Me:
-🔭 I’m currently a Computer Science student, especializing in Machine Learning, at National University Manila<br
-👯 I’m looking to collaborate on beginner-friendly tech projects, coding challenges, or student research initiatives
-🤝 I’m looking for help with building a strong foundation in machine learning and real-world applications
-🌱 I’m currently learning data structures, algorithms, object-oriented programming, and the basics of machine learning
-💬 Ask me about student life in CS, how I started learning programming, or beginner resources
+🔭 I’m currently a Computer Science student, especializing in Machine Learning, at National University Manila<br>
+👯 I’m looking to collaborate on beginner-friendly tech projects, coding challenges, or student research initiatives <br>
+🤝 I’m looking for help with building a strong foundation in machine learning and real-world applications <br>
+🌱 I’m currently learning data structures, algorithms, object-oriented programming, and the basics of machine learning <br>
+💬 Ask me about student life in CS, how I started learning programming, or beginner resources <br>
 ⚡ Fun fact: I’m into game development and love solving logic problems—it’s like leveling up without the XP. Turning frustration into satisfaction is my favorite part of coding. 
 
 ## 🌐 Socials:
