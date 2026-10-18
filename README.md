@@ -1,12 +1,17 @@
 # <p align="center">୨୧ Hi, I'm Mercel! ୨୧</p>
 
-# 💫 About Me:
-🔭 I’m currently a Computer Science student, especializing in Machine Learning, at National University Manila<br>
-👯 I’m looking to collaborate on beginner-friendly tech projects, coding challenges, or student research initiatives <br>
-🤝 I’m looking for help with building a strong foundation in machine learning and real-world applications <br>
-🌱 I’m currently learning data structures, algorithms, object-oriented programming, and the basics of machine learning <br>
-💬 Ask me about student life in CS, how I started learning programming, or beginner resources <br>
-⚡ Fun fact: I’m into game development and love solving logic problems—it’s like leveling up without the XP. Turning frustration into satisfaction is my favorite part of coding. 
+# About Me
+
+🎓 Computer Science student specializing in Machine Learning at National University Manila.
+
+🌱 Continuously learning and exploring new technologies and their applications.
+
+💻 Interested in programming, machine learning, and problem-solving.
+
+🤝 Open to collaboration, learning opportunities, and meaningful projects.
+
+⚡ Always striving to learn, grow, and improve.
+ 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@ohmrcl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ohmrclvs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@mrclmacasinag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:macasinag2611@gmail.com) 
